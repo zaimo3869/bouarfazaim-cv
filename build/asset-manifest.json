@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53d3d2f1.css",
+    "main.js": "/static/js/main.d4bf6209.js",
+    "static/media/kanapDesktop.png": "/static/media/kanapDesktop.e31c28224d29de6ae31c.png",
+    "static/media/LachouetteAgence.png": "/static/media/LachouetteAgence.f1a1171e700fe125b1fc.png",
+    "static/media/ohmyfoodmobile.png": "/static/media/ohmyfoodmobile.cd2fc59c373883ecff94.png",
+    "static/media/imageZ.jpg": "/static/media/imageZ.acb21639783168ff7238.jpg",
+    "static/media/PiquanteDesktop.png": "/static/media/PiquanteDesktop.432ca0a752c12b491098.png",
+    "static/media/reserviaMobile.png": "/static/media/reserviaMobile.66e09c7481fddb30b8e0.png",
+    "index.html": "/index.html",
+    "main.53d3d2f1.css.map": "/static/css/main.53d3d2f1.css.map",
+    "main.d4bf6209.js.map": "/static/js/main.d4bf6209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d3d2f1.css",
+    "static/js/main.d4bf6209.js"
+  ]
+}
